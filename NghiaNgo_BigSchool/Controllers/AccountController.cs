@@ -12,7 +12,6 @@ using NghiaNgo_BigSchool.Models;
 
 namespace NghiaNgo_BigSchool.Controllers
 {
-    // ghi chu
     [Authorize]
     public class AccountController : Controller
     {
